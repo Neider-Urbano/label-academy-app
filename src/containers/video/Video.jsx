@@ -15,9 +15,9 @@ const Video = () => {
           </div>
 
           <div className='w-[480px]'>
-              <p className='text-[15px] text-[#777af2]'>SUCCESSFUL CREATIVE IS BOOTED IN STRATEGY</p>
-              <h1 className='mt-[10px] text-[34px] text-[#39374d] leading-[40px] w-[468px]'>We partner with companies to bring clarity to their brand</h1>
-              <p className='mt-[25px] text-[18px] text-[#455880] mb-[30px] w-[470px]'>We develop enjoyable consumer experiences, from digital strategy and content to media and analysis.
+              <p className='text-[15px] text-[#777af2] font-medium'>SUCCESSFUL CREATIVE IS BOOTED IN STRATEGY</p>
+              <h1 className='mt-[10px] text-[34px] text-[#39374d] leading-[40px] w-[468px] font-bold'>We partner with companies to bring clarity to their brand</h1>
+              <p className='mt-[25px] text-[18px] text-[#455880] mb-[30px] w-[470px] font-medium'>We develop enjoyable consumer experiences, from digital strategy and content to media and analysis.
                 Leading to meaningful results and satisfied clients.
               </p>
               <OurProcess/>
