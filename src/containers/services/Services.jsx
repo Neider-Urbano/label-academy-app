@@ -1,5 +1,5 @@
 import React from 'react'
-import { CardGaftin } from '../../components/cards/cardGaftin'
+import { CardGaftin } from '../../components/cards/CardGaftin'
 
 const Services = () => {
   return (

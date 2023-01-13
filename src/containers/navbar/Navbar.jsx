@@ -1,6 +1,6 @@
 import React from 'react'
-import Nav from '../../components/navs/nav'
-import NavTop from '../../components/navs/navTop'
+import Nav from '../../components/navs/Nav'
+import NavTop from '../../components/navs/NavTop'
 
 const Navbar = () => {
   return (
