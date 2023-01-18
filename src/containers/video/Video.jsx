@@ -11,7 +11,7 @@ const Video = () => {
             <div className='w-[340px] h-[173px] absolute bottom-[0px] right-[-25px]'>
               <img src={vector1} className="h-[100%] w-[100%]" alt=""/> 
             </div>
-            <iframe className="absolute left-0 top-0 rounded-lg" width="560" height="315" src="https://www.youtube.com/embed/qiMF5Z-5cwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe className="absolute left-0 top-0 rounded-lg" width="560" height="315" src="https://www.youtube.com/embed/qiMF5Z-5cwY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
           </div>
 
           <div className='w-[480px]'>
